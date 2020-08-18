@@ -1,5 +1,7 @@
 ### Peter Buelow
 
+![Sunset](https://github.com/buelowp/buelowp/blob/master/600_5561.jpg)
+
 I have been working with Linux and embedded electronics for nearly 25 years now. Starting in college, where I got my first pass at programming 8 bit micros and talking to them over slow UART on my, at the time, super advanced Slackware installation. I remember how hard it was to get even simple things working, but what a learning experience. I remember compiling and installing very early versions of KDE 1 and 2.
 
 Fast forward a few years, and I was a lucky young engineer at what used to be Motorola, working on learning how to integrate Linux into cellular network controllers. It was me and a few friends in suburban Chicago who got a first pass at brining MontaVista Linux into a Freescale PPC cage, and make it work. Then we got to integrate with WindRiver, making Linux and VxWorks function together in the same cage. Motorola also got me my first introduction to DD-WRT and consumer grade networking. I was priveledged to be a lead engineer helping on a project for what was a precursor to 4G. Motorola bet big on WiMAX, which was not smart in hindsight, but we created a really cool WiMAX home router which was deployed in Germany initially.
@@ -14,7 +16,7 @@ I have a lot of projects here which let me keep track of a lot of things around 
 
 This is still in progress, it won't work for a bit.
 
-Listing <!-- releases_count starts -->461<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->0<!-- releases_count ends --> releases across <!-- project_count starts -->0<!-- project_count ends --> projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 <!-- recent_releases ends -->
