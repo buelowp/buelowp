@@ -26,7 +26,7 @@ I got to work at Continental AG, building their first Linux based products for a
 
 And most recently, I got to help create a Linux platform for Lifefitness. All of the consoles they build now are Linux and Android based. 
 It was my team that dreamed up HOW to do that, and then work out the details. I loved that work, and being at the front line of doing 
-something great for people and making it work for Lifefitness in a smart and cost effective way was a dream come true.
+something great for people, making it work for Lifefitness in a smart and cost effective way, was a dream come true.
 
 I have a lot of projects here which let me keep track of a lot of things around my house. I can automatically refill my fishtank and monitor 
 a lot of sensors related to keeping fish alive. I maintain a weather station in my backyard. I control a LOT of lights around the house 
