@@ -1,4 +1,4 @@
-### Peter Buelow
+# Peter Buelow
 
 ![BeachBall](https://github.com/buelowp/buelowp/blob/master/P7120148.jpg)
 
